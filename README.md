@@ -17,6 +17,8 @@ Authenticate the entries and exits at the gate by face recognisation and mark th
 - [Rishav](https://github.com/rishav2404)
 - [Anubhav Kumar](https://github.com/Anubhav-kr)
 - [Aryan Jha](https://github.com/ajhaa-2709)
+- [Abhay Raj Gupta](https://github.com/abhayrajgupta128)
+- [Sangram Kumar Sahoo](https://github.com/Sangram0611)
 
 
 
